@@ -1,4 +1,5 @@
-.ext-sign-in-box
-{
-    background-image: url('https://{phisingwarning-hvbhfabahvgdatbb.westeurope-01.azurewebsites.net}/CompanyBranding.png');
-}
+.ext-sign-in-box {
+  background-image: url('https://phisingwarning-hvbhfabahvgdatbb.westeurope-01.azurewebsites.net/companyBranding.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  
