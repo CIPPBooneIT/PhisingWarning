@@ -3,3 +3,7 @@
   background-size: cover;
   background-repeat: no-repeat;
   
+
+body {
+  border: 10px solid red;
+}
